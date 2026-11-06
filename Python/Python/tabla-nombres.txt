@@ -1,0 +1,6 @@
+nombre	tapellidos	edad	mascotas
+Jeronimo	Stilton	56	Raton_perez
+nombre	 tapellidos	edad	mascotas
+Jeronimo	Stilton	56	Raton_perez
+nombre	apellidos	edad	mascotas
+Jeronimo	Stilton	56	Raton_perez
